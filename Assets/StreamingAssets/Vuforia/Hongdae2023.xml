@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="SKPC" size="0.150000 0.028147" />
+    <ImageTarget name="IC" size="0.150000 0.134877" />
+    <ImageTarget name="GDPC" size="0.150000 0.024313" />
+    <ImageTarget name="GDHofGCJ" size="0.150000 0.040478" />
+    <ImageTarget name="DLJPC" size="0.150000 0.059565" />
+    <ImageTarget name="BMJ" size="0.150000 0.039565" />
+    <ImageTarget name="BMCK" size="0.150000 0.025000" />
+    <ImageTarget name="M_HONGDAE" size="0.150000 0.237891" />
+    <ImageTarget name="KNOCK" size="0.150000 0.139270" />
+  </Tracking>
+</QCARConfig>
